@@ -16,3 +16,12 @@ In this project, we try to design deep neural network towards Face Mask Detectio
 - Signal whether mask found or not found.
 
 ## Functional Block Diagram
+![FBD](https://user-images.githubusercontent.com/47136173/141670751-1cf4ecc5-9b2b-4e34-b536-be0ac0c1f740.png)
+### Training Phase
+![training](https://user-images.githubusercontent.com/47136173/141670752-40b0435f-d167-4fd0-a705-37079a5bfea2.png)
+
+## Dataset
+Real World Masked Face Dataset.
+The dataset contains 1376 images collected from the Real-world Masked Face Detection (RMFD) dataset. They are divided into two classes:
+- with-mask: 690 images
+- without-mask: 686 images
