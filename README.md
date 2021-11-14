@@ -13,7 +13,7 @@ In this project, we try to design deep neural network towards Face Mask Detectio
 ## Objective
 - Develop an algorithm to perform mask detection.
 - Detect masks for multiple people.
-- Signal whether mask found or not found.
+- Signal whether mask found or not found using Buzzer.
 
 ## Functional Block Diagram
 ![FBD](https://user-images.githubusercontent.com/47136173/141670751-1cf4ecc5-9b2b-4e34-b536-be0ac0c1f740.png)
@@ -25,3 +25,16 @@ Real World Masked Face Dataset.
 The dataset contains 1376 images collected from the Real-world Masked Face Detection (RMFD) dataset. They are divided into two classes:
 - with-mask: 690 images
 - without-mask: 686 images
+
+## Hardware used
+- Raspberry Pi 4
+- 5 MP Camera
+- Piezelectric Buzzer
+- SD card 
+
+## All modules integrated in Raspberrypi
+<img src="https://user-images.githubusercontent.com/47136173/141671462-b1968dc1-1cba-44e6-990e-e5d15bb3d534.jpg" width="500">
+
+## Results
+<img src="https://user-images.githubusercontent.com/47136173/141670915-5a089321-d315-4bca-9dac-af37bba24f2c.png" width="500"><br />
+<img src="https://user-images.githubusercontent.com/47136173/141670921-31016162-9c8f-4da9-ab85-31f75a62681c.png" width="500">
